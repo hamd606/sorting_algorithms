@@ -5,7 +5,7 @@
  * a position and moving to the right
  * @array: the array
  * @size: array size
- * @starting_pos: search starting position
+ * @start_pos: search starting position
  * Return: the index of the minimun value of the array
  * from position starting_pos onward
 */
